@@ -1,6 +1,7 @@
 const char postForms[] PROGMEM = R"===(
 <html>
-  <head>
+  <head>  
+<meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://cdn.jsdelivr.net/npm/@jaames/iro@5"></script>
   <link rel="stylesheet" href="style.css"> 
    <title>
