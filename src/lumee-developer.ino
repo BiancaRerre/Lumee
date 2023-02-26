@@ -132,7 +132,7 @@ void loop() {
 }
 
 void anima(){
-  for()
+  
 
 }
 
